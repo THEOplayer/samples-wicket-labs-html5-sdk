@@ -1,0 +1,14 @@
+{
+  "name": "wicket-labs-theo-firebase",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THEOplayer/samples-wicket-labs-html5-sdk.git"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
